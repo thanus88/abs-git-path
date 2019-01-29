@@ -1,9 +1,7 @@
 server:
-    port: 9000
+    port: 8000
   message:
-    greeting: Hello! Pricing-service configuration
-  product:
-       price: 99.99
+    greeting: Hello! Product-service configuration
   eureka:
     client:
       serviceUrl:
